@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A",
+        "B",
+        "C"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:amethyst"
+        },
+        
+        "B":
+        {
+            "item": "powergems:power_gem_strength"
+        },
+        
+        "C":
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:sword_black_death"
+    }
+}

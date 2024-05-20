@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A A",
+        "ABA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:peridot"
+        },
+        
+        "B":
+        {
+            "item": "powergems:power_gem_haste"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:peridot_chest"
+    }
+}

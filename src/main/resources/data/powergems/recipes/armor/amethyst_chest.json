@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A A",
+        "ABA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:amethyst"
+        },
+        
+        "B":
+        {
+            "item": "powergems:power_gem_strength"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:amethyst_chest"
+    }
+}

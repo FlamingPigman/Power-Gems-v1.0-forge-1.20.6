@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:amethyst_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:amethyst",
+        "count": 9
+    }
+}

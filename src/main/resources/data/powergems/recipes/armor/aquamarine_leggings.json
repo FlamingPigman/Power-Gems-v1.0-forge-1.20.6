@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "A A",
+        "A A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:aquamarine"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:aquamarine_leggings"
+    }
+}

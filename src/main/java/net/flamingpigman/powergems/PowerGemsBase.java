@@ -1,6 +1,9 @@
 package net.flamingpigman.powergems;
 
 import com.mojang.logging.LogUtils;
+import net.flamingpigman.powergems.blocks.ModBlocks;
+import net.flamingpigman.powergems.items.ModCreativeTab;
+import net.flamingpigman.powergems.items.ModItems;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -26,6 +29,12 @@ public class PowerGemsBase
 
     public PowerGemsBase() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModCreativeTab.register(modEventBus);
+
+        ModItems.register(modEventBus); //ITEM REGISTER
+        ModBlocks.register(modEventBus); //BLOCK REGISTER
+
         modEventBus.addListener(this::commonSetup);
         MinecraftForge.EVENT_BUS.register(this);
         modEventBus.addListener(this::addCreative);
@@ -38,6 +47,7 @@ public class PowerGemsBase
 
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
+        // ADD CREATIVE TAB
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call

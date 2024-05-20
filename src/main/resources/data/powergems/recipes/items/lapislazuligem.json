@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:lapis_lazuli",
+            "data": 4
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:lapis_lazuli_gem"
+    }
+}

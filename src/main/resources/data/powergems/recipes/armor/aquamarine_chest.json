@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A A",
+        "ABA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:aquamarine"
+        },
+        
+        "B":
+        {
+            "item": "powergems:power_gem_jumping"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:aquamarine_chest"
+    }
+}

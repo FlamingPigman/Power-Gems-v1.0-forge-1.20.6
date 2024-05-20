@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:aquamarine_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:aquamarine",
+        "count": 9
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "ABC",
+        "B C",
+        "  C"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:power_gem_regen"
+        },
+        
+        "B":
+        {
+            "item": "powergems:tourmaline"
+        },
+        
+        "C":
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:scythe_reaping"
+    }
+}

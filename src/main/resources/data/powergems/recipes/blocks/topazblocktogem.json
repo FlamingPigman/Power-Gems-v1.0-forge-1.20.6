@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:topaz_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:topaz",
+        "count": 9
+    }
+}

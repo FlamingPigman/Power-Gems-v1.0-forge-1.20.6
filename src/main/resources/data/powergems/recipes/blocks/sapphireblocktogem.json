@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:sapphire_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:sapphire",
+        "count": 9
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A A",
+        "ABA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:tourmaline"
+        },
+        
+        "B":
+        {
+            "item": "powergems:power_gem_regen"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:tourmaline_chest"
+    }
+}

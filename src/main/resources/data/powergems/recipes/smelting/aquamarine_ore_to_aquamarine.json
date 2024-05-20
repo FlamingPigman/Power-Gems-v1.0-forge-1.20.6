@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": { "item": "powergems:aquamarine_ore" },
+  "result": { "item":  "powergems:aquamarine"},
+  "experience": 1.0,
+  "cookingtime": 200
+}

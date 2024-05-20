@@ -1,0 +1,38 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " A ",
+        "DBD",
+        " C "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:aquamarine"
+        },
+        
+        "B":
+        {
+            "item": "powergems:power_gem_jumping"
+        },
+        
+        "C":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "D":
+        {
+            "item": "minecraft:quartz"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:sword_angels"
+    }
+}

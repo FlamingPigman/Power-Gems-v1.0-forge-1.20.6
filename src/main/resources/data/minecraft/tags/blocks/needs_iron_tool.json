@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "powergems:amethyst_ore",
+    "powergems:topaz_ore",
+    "powergems:citrine_ore",
+    "powergems:peridot_ore",
+    "powergems:sapphire_ore",
+    "powergems:aquamarine_ore",
+    "powergems:tourmaline_ore",
+
+    "powergems:amethyst_block",
+    "powergems:topaz_block",
+    "powergems:citrine_block",
+    "powergems:peridot_block",
+    "powergems:sapphire_block",
+    "powergems:aquamarine_block",
+    "powergems:tourmaline_block"
+  ]
+}

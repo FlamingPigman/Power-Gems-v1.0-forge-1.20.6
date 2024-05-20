@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A",
+        "B",
+        "C"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:citrine"
+        },
+        
+        "B":
+        {
+            "item": "powergems:power_gem_fire_resist"
+        },
+        
+        "C":
+        {
+            "item": "minecraft:blaze_rod"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:sword_flames"
+    }
+}

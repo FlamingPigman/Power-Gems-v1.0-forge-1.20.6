@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A A",
+        "ABA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:topaz"
+        },
+        
+        "B":
+        {
+            "item": "powergems:power_gem_speed"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:topaz_chest"
+    }
+}

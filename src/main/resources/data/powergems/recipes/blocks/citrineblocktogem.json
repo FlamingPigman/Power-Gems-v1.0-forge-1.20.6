@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:citrine_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:citrine",
+        "count": 9
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "ACA",
+        " B ",
+        " B "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:lapis_lazuli_gem"
+        },
+        
+        "B":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "C":
+        {
+            "item": "powergems:power_gem_water"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:farmers_rake"
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": { "item": "powergems:citrine_ore" },
+  "result": { "item":  "powergems:citrine"},
+  "experience": 1.0,
+  "cookingtime": 200
+}

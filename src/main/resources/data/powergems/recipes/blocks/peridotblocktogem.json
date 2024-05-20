@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "powergems:peridot_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "powergems:peridot",
+        "count": 9
+    }
+}
