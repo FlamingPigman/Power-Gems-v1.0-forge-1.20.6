@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "powergems:block/topaz_ore",
+    "all": "powergems:block/topaz_ore"
+  }
+}

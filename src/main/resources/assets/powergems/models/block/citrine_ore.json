@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "powergems:block/citrine_ore",
+    "all": "powergems:block/citrine_ore"
+  }
+}

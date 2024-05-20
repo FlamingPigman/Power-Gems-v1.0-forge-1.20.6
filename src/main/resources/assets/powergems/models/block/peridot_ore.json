@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "powergems:block/peridot_ore",
+    "all": "powergems:block/peridot_ore"
+  }
+}

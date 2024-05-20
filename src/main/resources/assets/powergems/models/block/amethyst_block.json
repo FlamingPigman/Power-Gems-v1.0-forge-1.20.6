@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "powergems:block/amethyst_block",
+    "all": "powergems:block/amethyst_block"
+  }
+}

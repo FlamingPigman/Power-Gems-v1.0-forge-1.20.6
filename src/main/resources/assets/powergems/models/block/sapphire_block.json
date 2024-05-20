@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "powergems:block/sapphire_block",
+    "all": "powergems:block/sapphire_block"
+  }
+}
