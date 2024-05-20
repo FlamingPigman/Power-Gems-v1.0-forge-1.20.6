@@ -10,7 +10,7 @@ import net.minecraftforge.registries.RegistryObject;
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, PowerGemsBase.MOD_ID);
-
+    // TODO ADD TOOLS AND ARMOR
     // Gems
     public static final RegistryObject<Item> AMETHYST = ITEMS.register("amethyst",
             () -> new Item(new Item.Properties()));
